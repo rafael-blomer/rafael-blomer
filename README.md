@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Rafael!
 
-🎓 Estudante de Sistemas de Informação na UNIPLAC e Especialista Back-end Java na EBAC
+🎓 Estudante de Sistemas de Informação na UNIPLAC e Especialista Back-end Java na EBAC   
 💻 Focado em aplicações **Java (Spring Boot)**  
 🌐 Também trabalho com **Angular**, **Python**, **C#**, **HTML**, **CSS** e **JavaScript**  
 🐘 Experiência com bancos de dados **MySQL**, **PostgreSQL** e **MongoDB**  
