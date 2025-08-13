@@ -25,10 +25,10 @@
 
 ###### Agendador de Tarefas (Microsserviços)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafael-blomer&repo=bff-agendador-tarefas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafael-blomer&repo=agendador-tarefas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafael-blomer&repo=Usuario-Security&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafael-blomer&repo=notificacao&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafael-blomer&repo=bff-agendador-tarefas&theme=dark)](https://github.com/rafael-blomer/bff-agendador-tarefas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafael-blomer&repo=agendador-tarefas&theme=dark)](https://github.com/rafael-blomer/agendador-tarefas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafael-blomer&repo=Usuario-Security&theme=dark)](https://github.com/rafael-blomer/Usuario-Security)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafael-blomer&repo=notificacao&theme=dark)](https://github.com/rafael-blomer/notificacao)
 
 ---
 
