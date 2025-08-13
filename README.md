@@ -21,7 +21,7 @@
 
 ###### Banco simplificado (Teste Back-end PicPay)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafael-blomer&repo=PicPaySimplificado&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafael-blomer&repo=PicPaySimplificado&theme=dark)](https://github.com/rafael-blomer/PicPaySimplificado)
 
 ###### Agendador de Tarefas (Microsserviços)
 
