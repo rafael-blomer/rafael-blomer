@@ -19,6 +19,10 @@
 
 ## 🚀 Projetos
 
+###### EstoqueALIS (Controle de estoque)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafael-blomer&repo=EstoqueALIS&theme=dark)](https://github.com/rafael-blomer/EstoqueALIS)
+
 ###### Banco simplificado (Teste Back-end PicPay)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafael-blomer&repo=PicPaySimplificado&theme=dark)](https://github.com/rafael-blomer/PicPaySimplificado)
